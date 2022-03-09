@@ -1,3 +1,7 @@
+# About
+
+This is a small project with tailwind and vue, accessing a public API for Covid (covid19api.com)
+
 # vue-covid-tracker
 
 ## Project setup
